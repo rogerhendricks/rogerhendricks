@@ -11,8 +11,8 @@
 </div>
 
 --- 
- Hi, I am Roger 👋! A Cardiac Electrophysiologist with a passion for implanted devices (pacemakers, defibrillators). I have experience building and deploying on Linux-based servers, Web Applications with Python (Django), Rust (Actix-web),
- PHP (Laravel), HTML, CSS (Pure, Sass, Bootstrap, Tailwind and Bulma) and JavaScript (Vanilla, and Svelte/SvelteKit).
+ Hi, I am Roger 👋! A Cardiac Electrophysiologist with a passion for implanted devices (pacemakers, defibrillators). I have experience building and deploying on Linux-based servers, Web Applications with Python (Django),
+ PHP (Laravel), HTML, CSS (Pure, Sass, Bootstrap, Tailwind and Bulma) and JavaScript (Vanilla, express, react and Svelte/SvelteKit).
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,7 +24,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
