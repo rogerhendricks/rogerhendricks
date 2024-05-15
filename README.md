@@ -12,7 +12,7 @@
 
 --- 
  Hi, I am Roger 👋! A Cardiac Electrophysiologist with a passion for implanted devices (pacemakers, defibrillators). I have experience building and deploying on Linux-based servers, Web Applications with Python (Django),
- PHP (Laravel), HTML, CSS (Pure, Sass, Bootstrap, Tailwind and Bulma) and JavaScript (Vanilla, express, react and Svelte/SvelteKit).
+ PHP (Laravel), HTML, CSS (Pure, Sass, Bootstrap, Tailwind and Bulma) and JavaScript (Vanilla, Express, React and Svelte/SvelteKit).
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
